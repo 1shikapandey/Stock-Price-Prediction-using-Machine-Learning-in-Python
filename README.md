@@ -44,3 +44,10 @@ It demonstrates the use of time-series analysis, feature engineering, and model 
 ## 📌 Requirements
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn yfinance
+
+▶️ How to Run
+git clone https://github.com/1shikapandey/Stock-Price-Prediction-using-Machine-Learning-in-Python.git
+cd Stock-Price-Prediction-using-Machine-Learning-in-Python
+python Stock-Price-Prediction-using-Machine-Learning-in-Python.py
+
+
