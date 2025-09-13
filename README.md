@@ -6,7 +6,7 @@ It demonstrates the use of time-series analysis, feature engineering, and model 
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** CSV historical data
 - **Features:** Date, Open, High, Low, Close, Volume
 - **Target:** Closing Price prediction
