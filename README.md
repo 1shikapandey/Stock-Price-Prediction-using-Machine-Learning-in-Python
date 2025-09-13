@@ -35,7 +35,7 @@ It demonstrates the use of time-series analysis, feature engineering, and model 
 
 ---
 
-## 📊 Results
+## Results
 - **RMSE:** ~2.5 (varies by model and dataset)
 - **Observation:** LSTM and ensemble models perform better for capturing trends compared to basic regression.
 
