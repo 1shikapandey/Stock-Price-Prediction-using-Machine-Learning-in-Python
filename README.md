@@ -41,7 +41,7 @@ It demonstrates the use of time-series analysis, feature engineering, and model 
 
 ---
 
-## 📌 Requirements
+## Requirements
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn yfinance
 
