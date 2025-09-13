@@ -1,6 +1,6 @@
 # Stock Price Prediction using Machine Learning in Python
 
-## 📌 Overview
+## Overview
 This project applies **machine learning regression models** to predict future stock prices using historical market data.  
 It demonstrates the use of time-series analysis, feature engineering, and model evaluation to forecast stock trends for informed decision-making.
 
