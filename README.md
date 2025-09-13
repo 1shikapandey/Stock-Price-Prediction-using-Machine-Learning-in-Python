@@ -13,7 +13,7 @@ It demonstrates the use of time-series analysis, feature engineering, and model 
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. **Data Collection**
    - Load historical stock data from CSV or Yahoo Finance API
 2. **Data Preprocessing**
